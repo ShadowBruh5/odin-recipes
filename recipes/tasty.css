@@ -1,0 +1,39 @@
+* {
+background-color: skyblue;
+}
+
+.title {
+margin: 50px;
+border: 5px solid black;
+font-size: 22px;
+width: 120px;
+background-color: blueviolet;
+text-align: center;    
+}
+
+img {
+height: 400px;
+width: 400px;
+border: 2px dotted blue;    
+}
+
+ul {
+font-size: 18px;
+}
+
+ol {
+font-size: 18px;
+}
+
+.heading {
+font-size: 40px;
+padding: 10px;
+border: 5px solid black;
+width: 150px;
+background-color: blueviolet;
+text-align: center;
+}
+
+p {
+font-size: 18px;
+}
